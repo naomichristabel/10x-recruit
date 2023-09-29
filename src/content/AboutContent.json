@@ -1,0 +1,91 @@
+{
+  "title_about": "About Us",
+  "text_about_1": "With over 30 years of combined management experience, we have the network, expertise, and knowledge to source the best global talent for businesses.",
+  "text_about_2": "At our core, we are driven by a singular objective - to empower our clients with the decisive advantage required to secure crucial talents across every facet of their enterprise. We are steadfast in our commitment to deliver exceptional service and meticulous attention to all of our esteemed clients, irrespective of their scale or scope.",
+  "text_about_3": "We forge strategic alliances with organizations and individuals who recognize the significance of cultivating a close bond with their recruitment allies, valuing relationships built on trust, mutual respect, and consummate professionalism. Our collaboration is founded upon the principles of integrity and accountability, where we pledge unwavering transparency, proactive communication, and an enduring passion for our craft.",
+  "text_about_4": "Unleash exponential growth with 10X Recruit, your trusted partner in executive search and Mid-Senior level hiring. Our tailored solutions connect you with top-tier talent, driving organizational success. Leverage our industry expertise, cutting-edge technology, and extensive network to build exceptional teams that propel your business to new heights. Experience the 10X difference and unlock a future of unparalleled success.",
+  "title": "Focused Industry Practices",
+  "text": "As an organization, our unwavering commitment lies in honing our expertise and channelling our efforts towards serving particular industries with unmatched dedication and precision.",
+  "section": [
+    {
+      "title": "Manufacturing",
+      "content": "Automobiles, Machinery, Chemicals, Pharma, Iron & Steel, Electronics, Consumer Goods, Industrial Equipment",
+      "icon": "manufacturing.svg"
+    },
+    {
+      "title": "Real Estate & Construction",
+      "content": "EPC, MEP, Developers, Channel Partners",
+      "icon": "construction.svg"
+    },
+    {
+      "title": "Services",
+      "content": "Logistics & Transportation, Digital Market Place, Entertainment, Education, Hospitality, Tourism & Management Consulting",
+      "icon": "services.svg"
+    },
+    {
+      "title": "Energy & Natural Resources",
+      "content": "Mining, Renewable, Non-Renewable (Oil & Gas)",
+      "icon": "energy.svg"
+    }
+  ],
+  "our_values": [
+    {
+      "title": "Passion",
+      "content": "We are passionate about empowering careers and elevating businesses."
+    },
+    {
+      "title": "Partnership",
+      "content": "Our culture of collaboration ensures close, meaningful partnerships with all of our clients and candidates."
+    },
+    {
+      "title": "Accountability",
+      "content": "We take pride in our work and value accountability between clients, candidates, and each other."
+    },
+    {
+      "title": "Transparency",
+      "content": "We foster a culture of honest, open work and promise to be transparent in all of our communication."
+    },
+    {
+      "title": "Integrity",
+      "content": "The best interests of our clients and candidates come first, always."
+    }
+  ],
+  "our_process": [
+    {
+      "title": "ROLE BRIEFING",
+      "icon": "role_briefing.png"
+    },
+    {
+      "title": "MARKET INTELLEGENCE",
+      "icon": "market_intelligence.png"
+    },
+    {
+      "title": "CANDIDATE SEARCH",
+      "icon": "candidate_search.png"
+    },
+    {
+      "title": "RESUME SUBMISSION / CANDIDATE ASSESSMENTS",
+      "icon": "resume.png"
+    },
+    {
+      "title": "INTERVIEW COORDINATION",
+      "icon": "interview_coordination.png"
+    },
+    {
+      "title": "BENEFITS NEGOTIATION",
+      "icon": "benefits_negotiation.png"
+    },
+    {
+      "title": "ONBOARDING SUPPORT",
+      "icon": "onboarding_support.png"
+    },
+    {
+      "title": "POFU",
+      "icon": "pofu.png"
+    },
+    {
+      "title": "STAY CONNECTED",
+      "icon": "stay_connected.png"
+    }
+  ]
+}

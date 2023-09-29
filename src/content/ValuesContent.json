@@ -1,0 +1,56 @@
+{
+  "section": [
+    {
+      "title": "Focused",
+      "content": "Mid-Senior to Leadership Hiring, that’s all we do",
+      "icon": "focused.svg"
+    },
+    {
+      "title": "Precise",
+      "content": "We use the OBC Fit Model to find the right talent",
+      "icon": "precise.svg"
+    },
+    {
+      "title": "Customized",
+      "content": "We offer customized solutions for our clients",
+      "icon": "customized.svg"
+    },
+    {
+      "title": "Proven",
+      "content": "We have a transparent and honest process",
+      "icon": "proven.svg"
+    },
+    {
+      "title": "Authentic",
+      "content": "Our strategic approach yields better results",
+      "icon": "authentic.svg"
+    },
+    {
+      "title": "Thoughtful",
+      "content": "Your requirements are the crux of our process",
+      "icon": "thoughtful.svg"
+    }
+  ],
+  "our_values": [
+    {
+      "title": "Passion",
+      "content": "We are passionate about empowering careers and elevating businesses."
+    },
+    {
+      "title": "Partnership",
+      "content": "Our culture of collaboration ensures close, meaningful partnerships with all of our clients and candidates."
+    },
+    {
+      "title": "Accountability",
+      "content": "We take pride in our work and value accountability between clients, candidates, and each other."
+    },
+    {
+      "title": "Transparency",
+      "content": "We foster a culture of honest, open work and promise to be transparent in all of our communication."
+    },
+    {
+      "title": "Integrity",
+      "content": "The best interests of our clients and candidates come first, always."
+    }
+  ]
+}

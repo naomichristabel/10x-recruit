@@ -1,0 +1,15 @@
+{
+  "text": "Empowering Careers, Elevating Businesses",
+  "title": "Executive Search | Perm Hiring",
+  "button": [
+    {
+      "title": "Explore",
+      "linkto": "services"
+    },
+    {
+      "title": "Learn more",
+      "linkto": "focussed",
+      "color": "#fff"
+    }
+  ]
+}
