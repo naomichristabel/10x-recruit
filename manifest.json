@@ -3,17 +3,17 @@
   "name": "10x Recruit",
   "icons": [
     {
-      "src": "img/icons/logo192.png",
+      "src": "img/icons/logo192.PNG",
       "sizes": "64x64 32x32 24x24 16x16",
       "type": "image/x-icon"
     },
     {
-      "src": "img/icons/logo192.png",
+      "src": "img/icons/logo192.PNG",
       "type": "image/png",
       "sizes": "192x192"
     },
     {
-      "src": "img/icons/logo512.png",
+      "src": "img/icons/logo512.PNG",
       "type": "image/png",
       "sizes": "512x512"
     }
