@@ -134,7 +134,7 @@ const Footer = ({ t }: any) => {
             <NavLink to="/">
                   <LogoContainer>
                     <SvgIcon
-                      src="logo.png"
+                      src="logo.PNG"
                       aria-label="homepage"
                       width="100px"
                       height="100px"
@@ -153,10 +153,10 @@ const Footer = ({ t }: any) => {
             align="middle"
             style={{ paddingTop: "3rem" }}
           >
-            <NavLink to="/">
+            <NavLink to="/10x-recruit">
               <LogoContainer>
                 <SvgIcon
-                  src="logo.png"
+                  src="../../10x-recruit/img/svg/logo.PNG"
                   aria-label="homepage"
                   width="100px"
                   height="100px"
@@ -165,16 +165,16 @@ const Footer = ({ t }: any) => {
             </NavLink>
             <FooterContainer>
               <SocialLink
-                  href="/"
-                  src="instagram.svg"
+                  href="/10x-recruit"
+                  src="../../10x-recruit/img/svg/instagram.svg"
               />
               <SocialLink
-                href="/"
-                src="twitter.svg"
+                href="/10x-recruit"
+                src="../../10x-recruit/img/svg/twitter.svg"
               />
               <SocialLink
-                href="/"
-                src="linkedin.svg"
+                href="/10x-recruit"
+                src="../../10x-recruit/img/svg/linkedin.svg"
               />
             </FooterContainer>
           </Row>

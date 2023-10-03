@@ -28,25 +28,25 @@ const Team = () => {
         name: "Joshua Jehan Raj",
         role: "Founder & Director",
         content: [TeamContent.founder_para_1, TeamContent.founder_para_2, TeamContent.founder_para_3],
-        icon: "/img/svg/Joshua.png"
+        icon: "../../10x-recruit/img/svg/Joshua.PNG"
     },
     {
       name: "Arun Ebenezer Donakonda",
       role: "Co-Founder & Director",
       content: [TeamContent.cofounder_para_1, TeamContent.cofounder_para_2, TeamContent.cofounder_para_3],
-      icon: "/img/svg/Arun.png"
+      icon: "../../10x-recruit/img/svg/Arun.PNG"
     },
     {
       name: "Ananthi Josh",
       role: "Co-Founder & Advisor",
       content: [TeamContent.advisor_para_1, TeamContent.advisor_para_2, TeamContent.advisor_para_3],
-      icon: "/img/svg/Ananthi.png"
+      icon: "../../10x-recruit/img/svg/Ananthi.PNG"
     },
     {
       name: "Revathi K",
       role: "Search Partner",
       content: [TeamContent.search_partner_para_1, TeamContent.search_partner_para_2, TeamContent.search_partner_para_3],
-      icon: "/img/svg/Revathi.png"
+      icon: "../../10x-recruit/img/svg/Revathi.PNG"
     },
 ]
 

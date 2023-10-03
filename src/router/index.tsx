@@ -15,11 +15,11 @@ const Router = () => {
       <Styles />
       <Header />
         <Routes>
-          <Route path="/" element={<Home/>} />
-          <Route path="/home" element={<Home/>} />
-          <Route path="/about" element={<About/>} />
-          <Route path="/process" element={<Process/>} />
-          <Route path="/team" element={<Team/>} />
+          <Route path="/10x-recruit" element={<Home/>} />
+          <Route path="/10x-recruit/home" element={<Home/>} />
+          <Route path="/10x-recruit/about" element={<About/>} />
+          <Route path="/10x-recruit/process" element={<Process/>} />
+          <Route path="/10x-recruit/team" element={<Team/>} />
         </Routes>
       <Footer />
     </Suspense>

@@ -43,16 +43,16 @@ const Header = ({ t }: any) => {
       <>
         <ul className="navbar">
           <StyledLi>
-            <NavLink to="/" end>Home</NavLink>
+            <NavLink to="/10x-recruit" end>Home</NavLink>
           </StyledLi>
           <StyledLi>
-            <NavLink to="/about">About</NavLink>
+            <NavLink to="/10x-recruit/about">About</NavLink>
           </StyledLi>
           <StyledLi>
-            <NavLink to="/process">Our Process</NavLink>
+            <NavLink to="/10x-recruit/process">Our Process</NavLink>
           </StyledLi>
           <StyledLi>
-            <NavLink to="/team">Our Team</NavLink>
+            <NavLink to="/10x-recruit/team">Our Team</NavLink>
           </StyledLi>
         </ul>
      
@@ -84,8 +84,8 @@ const Header = ({ t }: any) => {
     <HeaderSection>
       <Container>
         <Row justify="space-between">
-          <LogoContainer to="/" aria-label="homepage">
-            <SvgIcon src="logo.png" width="100px" height="100px" />
+          <LogoContainer to="/10x-recruit" aria-label="homepage">
+            <SvgIcon src="../../10x-recruit/img/svg/logo.PNG" width="100px" height="100px" />
           </LogoContainer>
           <NotHidden>
             <MenuItem />

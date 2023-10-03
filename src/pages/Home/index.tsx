@@ -23,7 +23,7 @@ const Home = () => {
         title={IntroContent.title}
         content={IntroContent.text}
         button={IntroContent.button}
-        icon="recruiter.jpg"
+        icon="../../10x-recruit/img/svg/recruiter.jpg"
         id="intro"
       />
       {/* <MiddleBlock
@@ -45,14 +45,14 @@ const Home = () => {
         type="right"
         title={MissionContent.title}
         content={MissionContent.text}
-        icon="executive_search.jpg"
+        icon="../../10x-recruit/img/svg/executive_search.jpg"
         id="services"
       />
       <ContentBlock
         type="right"
         title={MissionContent.title2}
         content={MissionContent.text2}
-        icon="perm_hiring.jpg"
+        icon="../../10x-recruit/img/svg/perm_hiring.jpg"
         id="services"
       />
       <ContentBlock
@@ -60,12 +60,12 @@ const Home = () => {
         title={AboutContent.title}
         content={AboutContent.text}
         section={AboutContent.section}
-        icon="different_fields.jpg"
+        icon="../../10x-recruit/img/svg/different_fields.jpg"
         id="focussed"
         isSlide={true}
       />
       <ValueBlock 
-        icon="values.jpg"
+        icon="../../10x-recruit/img/svg/values.jpg"
         section={ValuesContent.section}
         our_values={ValuesContent.our_values}
       />

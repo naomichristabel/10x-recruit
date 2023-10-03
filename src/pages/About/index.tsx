@@ -29,7 +29,7 @@ const About = () => {
         content2={AboutContent.text_about_2}
         content3={AboutContent.text_about_3}
         content4={AboutContent.text_about_4}
-        icon="about_us.jpg"
+        icon="../../10x-recruit/img/svg/about_us.jpg"
         id="about"
       />
        <Row justify="space-evenly" align="middle" style={{ marginTop:'5%', marginBottom:'5%', textAlign: 'center' }}>

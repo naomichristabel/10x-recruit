@@ -10,22 +10,22 @@
     {
       "title": "Manufacturing",
       "content": "Automobiles, Machinery, Chemicals, Pharma, Iron & Steel, Electronics, Consumer Goods, Industrial Equipment",
-      "icon": "manufacturing.svg"
+      "icon": "../../10x-recruit/img/svg/manufacturing.svg"
     },
     {
       "title": "Real Estate & Construction",
       "content": "EPC, MEP, Developers, Channel Partners",
-      "icon": "construction.svg"
+      "icon": "../../10x-recruit/img/svg/construction.svg"
     },
     {
       "title": "Services",
       "content": "Logistics & Transportation, Digital Market Place, Entertainment, Education, Hospitality, Tourism & Management Consulting",
-      "icon": "services.svg"
+      "icon": "../../10x-recruit/img/svg/services.svg"
     },
     {
       "title": "Energy & Natural Resources",
       "content": "Mining, Renewable, Non-Renewable (Oil & Gas)",
-      "icon": "energy.svg"
+      "icon": "../../10x-recruit/img/svg/energy.svg"
     }
   ],
   "our_values": [
@@ -53,39 +53,39 @@
   "our_process": [
     {
       "title": "ROLE BRIEFING",
-      "icon": "role_briefing.png"
+      "icon": "../../10x-recruit/img/svg/role_briefing.PNG"
     },
     {
       "title": "MARKET INTELLEGENCE",
-      "icon": "market_intelligence.png"
+      "icon": "../../10x-recruit/img/svg/market_intelligence.PNG"
     },
     {
       "title": "CANDIDATE SEARCH",
-      "icon": "candidate_search.png"
+      "icon": "../../10x-recruit/img/svg/candidate_search.PNG"
     },
     {
       "title": "RESUME SUBMISSION / CANDIDATE ASSESSMENTS",
-      "icon": "resume.png"
+      "icon": "../../10x-recruit/img/svg/resume.PNG"
     },
     {
       "title": "INTERVIEW COORDINATION",
-      "icon": "interview_coordination.png"
+      "icon": "../../10x-recruit/img/svg/interview_coordination.PNG"
     },
     {
       "title": "BENEFITS NEGOTIATION",
-      "icon": "benefits_negotiation.png"
+      "icon": "../../10x-recruit/img/svg/benefits_negotiation.PNG"
     },
     {
       "title": "ONBOARDING SUPPORT",
-      "icon": "onboarding_support.png"
+      "icon": "../../10x-recruit/img/svg/onboarding_support.PNG"
     },
     {
       "title": "POFU",
-      "icon": "pofu.png"
+      "icon": "../../10x-recruit/img/svg/pofu.PNG"
     },
     {
       "title": "STAY CONNECTED",
-      "icon": "stay_connected.png"
+      "icon": "../../10x-recruit/img/svg/stay_connected.PNG"
     }
   ]
 }

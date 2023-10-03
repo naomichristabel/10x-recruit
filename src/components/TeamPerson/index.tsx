@@ -22,12 +22,11 @@ const TeamPerson = (props: any) => {
         </Row>
       </Col>
       <Col span={16}>
-        {console.log(props.content)}
+
         {props.content?.map((item: string, index: number) => {
                 if(index === 0)
                     return <ContentWrapper><div><strong>{props.name}</strong> {item}<br/><br/></div></ContentWrapper>
                 else 
-                console.log(item)
                     return <ContentWrapper><div>{item}<br/><br/></div></ContentWrapper>
             }
         )}
